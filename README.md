@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ### Windows:
 ```bash
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Proces
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 # This line removes the powershell's restriction only for this terminal, in
 # order to allow the activation of the virtual environment (venv).
 
@@ -47,7 +47,7 @@ venv\Scripts\python -m uvicorn src.api:app --reload
 ```
 In a new terminal:
 ```bash
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Proces
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 # This line removes the powershell's restriction only for this terminal, in
 # order to allow the activation of the virtual environment (venv).
 
