@@ -6,7 +6,7 @@ st.title("About")
 
 st.subheader("Introduction")
 st.write("Hello and thank you so much for trying out my **Toxicity Detector**!")
-st.write("My name is **:rainbow[Valmljourney]** and this project is part of my journey of "\
+st.write("My name is **Valmljourney** and this project is part of my journey of "\
             "learning Machine Learning. So feel free to give me a feedback on it!")
 
 
@@ -15,13 +15,13 @@ st.write("All the datasets that I used come from the *jigsaw-toxic-comment-class
 
 
 st.subheader("ML Model")
-st.write("The ML Model that I trained and used for this project is available on the hugging-face website (valhgf/toxic-bert).")
+st.write("The ML Model that I trained and used for this project is available on the Hugging Face website (valhgf/toxic-bert).")
 
 
 st.subheader("Improvements compared to my previous project")
 st.write("""
-- Use of **:rainbow[LLM]** (base-bert-uncased) combined with **:rainbow[fine-tuning]**
+- Use of **LLM** (base-bert-uncased) combined with **fine-tuning**
 - Added Jupyter notebooks to show the training and testing of the model
 - Added an *Observations* page to show my thought process and how I built this project
-- Use of an **:rainbow[API]** (fastAPI) to request the prediction and the explanation on the website
+- Use of an **API** (FastAPI) to request the prediction and the explanation on the website
 """)
