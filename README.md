@@ -7,6 +7,13 @@ This project learnt me a lot about fine-tuning a ML model.
 ![alt text](images/image.png)
 
 
+## ML Model
+- Base model: unitary/toxic-bert
+- Framework: Hugging Face transformers
+- Fine tuning: Kaggle dataset, 3 epochs
+- Link: https://huggingface.co/valhgf/toxic-bert
+
+
 ## Requirements
 - Python 3.13
 - streamlit
