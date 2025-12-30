@@ -85,10 +85,10 @@ Type a message in the *'Enter a message'* textbox, and press **Enter**. You will
 1) Type *'fuck you'*
 ![alt text](images/image-4.png)
 2) Press **Enter**
-![alt text](images/image-1.png)
+![alt text](images/image-1.png) <br>
 And you can see the result.
 3) Press the [Explanation with **LIME]** button
-![alt text](images/image-3.png)
+![alt text](images/image-3.png) <br>
 And you get the words responsible for flagging toxic highlighted in red, and the other words highlighted in green.
 
 
@@ -115,5 +115,6 @@ This page shows various informations about this project, like the improvement fr
 
 ## Author
 valmljourney
+
 
 ## Have fun testing my Toxicity Detector!
